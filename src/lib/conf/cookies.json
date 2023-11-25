@@ -1,4 +1,4 @@
 {
-  "types": ["necessary","preferences"],
-  "showIcon": true
+  "showIcon": true,
+  "types": []
 }
