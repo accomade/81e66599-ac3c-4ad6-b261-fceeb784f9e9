@@ -33,7 +33,7 @@
           "content": {
             "header1": 0,
             "header2": "weather",
-            "location": "54d0514d00"
+            "location": "54d0514d00/koserow"
           },
           "kind": "weather"
         }
@@ -77,8 +77,8 @@
         {
           "content": {
             "address": "Achterstr. 3, 17459 Koserow",
-            "lat": "54.0480159",
-            "long": "13.9947876",
+            "lat": "54.04834",
+            "long": "13.9966888",
             "zoom": 17
           },
           "kind": "leaflet-map"
