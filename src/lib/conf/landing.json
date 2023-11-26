@@ -31,8 +31,6 @@
       "blocks": [
         {
           "content": {
-            "header1": 0,
-            "header2": "weather",
             "location": "54d0514d00/koserow"
           },
           "kind": "weather"
