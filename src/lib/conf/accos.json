@@ -689,49 +689,6 @@
       {
         "blocks": [
           {
-            "acco": "e5cace58-d435-420f-a1dc-17e844469e7e",
-            "content": {
-              "accoPath": "e5cace58-d435-420f-a1dc-17e844469e7e",
-              "columns": [
-                "timeRange",
-                "firstNight",
-                "eachNight",
-                "peopleNum",
-                "extraPerson",
-                "minNumNights"
-              ],
-              "footnote": "crude-california-sycamore",
-              "global": {
-                "firstNightPrice": {
-                  "amount": 8000,
-                  "currency": {
-                    "base": 10,
-                    "code": "EUR",
-                    "exponent": 2
-                  }
-                },
-                "kind": "entry",
-                "minNumberOfNights": 3,
-                "perNightPrice": {
-                  "amount": 8000,
-                  "currency": {
-                    "base": 10,
-                    "code": "EUR",
-                    "exponent": 2
-                  }
-                }
-              }
-            },
-            "kind": "pricing"
-          }
-        ],
-        "columnCount": 1,
-        "header": "bewildered-common-serviceberry",
-        "padding": "10vw"
-      },
-      {
-        "blocks": [
-          {
             "content": {
               "photos": [
                 {
