@@ -1,6 +1,5 @@
 <script lang="ts">
   import { currentLang } from '$lib/stores/lang';
-  import Logo from '$lib/components/svg/LogoSVG.svelte';
   import { dictEntry } from '$lib/conf/translations';
 
   import { 
