@@ -16,7 +16,7 @@
         href="{n.path}" 
         target="_blank" 
         rel="noreferrer noopener"
-        on:click|stopPropagation={close}>
+        on:click>
           { dictEntry($currentLang, n.key) }
       </a>
       <div class="link-icon-wrapper">
@@ -24,7 +24,7 @@
       </div>
     </div>
     {:else}
-      <a href="{n.path}" on:click|stopPropagation={close}>{ dictEntry($currentLang, n.key) }</a>
+      <a href="{n.path}" on:click>{ dictEntry($currentLang, n.key) }</a>
     {/if}
   {:else}
       <span>{ dictEntry($currentLang, n.key) }</span>

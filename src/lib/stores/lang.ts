@@ -1,19 +1,24 @@
 import { i18n } from '$lib/conf/translations';
-import { get, writable } from 'svelte/store';
+import { get, writable, derived } from 'svelte/store';
 import { browser } from '$app/environment'
 import Cookie from 'js-cookie'
 
 import { cookieSelection } from "./cookies";
 
-let defaultLang = i18n.defaultLang;
-if(browser) {
-  if( i18n?.preferBrowserLang ) {
-    const browserLang = navigator.language;
-    const shortCode = browserLang.slice(0,2)
-    console.log("Discoverd browser lang: ", shortCode)
 
-    if( !!i18n.translations[shortCode] ) {
-      defaultLang = shortCode;
+const langStore = writable<string>(i18n.defaultLang)
+
+export const initLangStore = () => {
+  let defaultLang = i18n.defaultLang;
+  if(browser) {
+    if( i18n?.preferBrowserLang ) {
+      const browserLang = navigator.language;
+      const shortCode = browserLang.slice(0,2)
+      console.log("Discoverd browser lang: ", shortCode)
+
+      if( !!i18n.translations[shortCode] ) {
+        defaultLang = shortCode;
+      }
     }
   }
 
@@ -22,8 +27,6 @@ if(browser) {
     defaultLang = langCookie
   }
 }
-const langStore = writable(defaultLang)
-
 
 const handleCookie = () => {
   const cs = get(cookieSelection)
@@ -59,5 +62,7 @@ cookieSelection.subscribe( () => {
 })
 
 
-export const currentLang = langStore
-
+export const currentLang = derived(langStore, (s) => s)
+export const setLang = (lang: string) => {
+  langStore.set(lang)
+}
