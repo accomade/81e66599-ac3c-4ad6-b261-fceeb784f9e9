@@ -31,7 +31,9 @@
       "blocks": [
         {
           "content": {
-            "location": "54d0514d00/koserow"
+            "location": "54d0514d00/koserow/",
+            "header1": "nasty-thin-leaved-coneflower-block-compact-swamp-hellebore",
+            "header2": "nasty-thin-leaved-coneflower-block-devoted-mango"
           },
           "kind": "weather"
         }
