@@ -432,7 +432,10 @@
         "blocks": [
           {
             "content": {
-              "ref": "substantial-silky-dogwood"
+              "ref": "substantial-silky-dogwood",
+              "minFontSize": "",
+              "maxFontSize": "",
+              "minHeight": ""
             },
             "kind": "text"
           },
@@ -569,7 +572,8 @@
                   "alt": "",
                   "photoPath": "prev/users/template1/town_1.jpg"
                 }
-              ]
+              ],
+              "gridPhotoWidth": ""
             },
             "kind": "photo-gallery"
           }
@@ -669,7 +673,10 @@
         "blocks": [
           {
             "content": {
-              "ref": "resonant-horsetail-milkweed"
+              "ref": "resonant-horsetail-milkweed",
+              "minFontSize": "",
+              "maxFontSize": "",
+              "minHeight": ""
             },
             "kind": "text"
           },
@@ -711,7 +718,8 @@
                   "alt": "",
                   "photoPath": "prev/users/template1/town_1.jpg"
                 }
-              ]
+              ],
+              "gridPhotoWidth": ""
             },
             "kind": "photo-gallery"
           }
