@@ -126,10 +126,9 @@
       ],
       "coverPhoto": {
         "alt": "acco_default_alt",
-        "attribution": "Free image by <a href=\"https://shutterstock.com\" target=\"_blank\" rel=\"noopener noreferrer\">Shutterstock</a>",
         "external": false,
         "link": "accomodations/83cd06fd-858d-4e21-994f-325778812713",
-        "photoPath": "prev/users/template1/building_5.jpg"
+        "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/94bdc010-15d1-4c03-adcd-0d86eebaa885"
       },
       "slug": "acco_card_slug"
     },
