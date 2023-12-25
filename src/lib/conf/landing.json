@@ -77,8 +77,8 @@
         {
           "content": {
             "address": "Achterstr. 3, 17459 Koserow",
-            "lat": "54.04834",
-            "long": "13.9966888",
+            "lat": "54.048225890957866",
+            "long": "13.997402242070073",
             "zoom": 17
           },
           "kind": "leaflet-map"
