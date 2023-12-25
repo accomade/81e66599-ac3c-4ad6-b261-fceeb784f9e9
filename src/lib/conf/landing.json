@@ -46,7 +46,7 @@
       "blocks": [
         {
           "content": {
-            "gridPhotoWidth": "",
+            "gridPhotoWidth": 500,
             "photos": [
               {
                 "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/f883c950-da8d-4b07-ad79-44260e847c02"
