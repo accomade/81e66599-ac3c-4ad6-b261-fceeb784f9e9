@@ -619,12 +619,12 @@
             "accoPath": "e5cace58-d435-420f-a1dc-17e844469e7e",
             "showMaximum": true,
             "showMinimum": true,
-            "footnote": "left-hay-fever-weed",
+            "footnote": "sexual-appalachian-tea",
             "entries": [
               {
                 "kind": "range",
-                "from": "2023-12-31T01:00:00.000+01:00",
-                "to": "2024-06-30T02:00:00.000+02:00",
+                "from": "2024-09-01T02:00:00.000+02:00",
+                "to": "2025-06-30T02:00:00.000+02:00",
                 "entry": {
                   "kind": "entry",
                   "perNightPrice": {
@@ -648,8 +648,33 @@
               },
               {
                 "kind": "range",
-                "from": "2024-09-01T02:00:00.000+02:00",
-                "to": "2024-12-31T01:00:00.000+01:00",
+                "from": "2025-09-01T02:00:00.000+02:00",
+                "to": "2026-06-30T02:00:00.000+02:00",
+                "entry": {
+                  "kind": "entry",
+                  "perNightPrice": {
+                    "amount": 5000,
+                    "currency": {
+                      "code": "EUR",
+                      "base": 10,
+                      "exponent": 2
+                    }
+                  },
+                  "minNumberOfNights": 3,
+                  "firstNightPrice": {
+                    "amount": 8000,
+                    "currency": {
+                      "code": "EUR",
+                      "base": 10,
+                      "exponent": 2
+                    }
+                  }
+                }
+              },
+              {
+                "kind": "range",
+                "from": "2026-09-01T02:00:00.000+02:00",
+                "to": "2027-06-30T02:00:00.000+02:00",
                 "entry": {
                   "kind": "entry",
                   "perNightPrice": {
@@ -682,7 +707,7 @@
                   "exponent": 2
                 }
               },
-              "minNumberOfNights": 6,
+              "minNumberOfNights": 5,
               "firstNightPrice": {
                 "amount": 10000,
                 "currency": {
