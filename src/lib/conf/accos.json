@@ -114,7 +114,7 @@
           "acco": "83cd06fd-858d-4e21-994f-325778812713",
           "content": {
             "accoPath": "83cd06fd-858d-4e21-994f-325778812713",
-            "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=83cd06fd-858d-4e21-994f-325778812713",
+            "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/83cd06fd-858d-4e21-994f-325778812713",
             "search": [
               3,
               7,
@@ -139,22 +139,20 @@
         "blocks": [
           {
             "content": {
-              "headerFontSize": "1.5rem",
-              "textFontSize": "1.1rem",
+              "maxFontSize": "",
+              "minFontSize": "",
               "minHeight": "",
               "ref": "equal-black-cap"
             },
-            "kind": "text",
-            "id": "tough-collard"
+            "kind": "text"
           },
           {
             "acco": "83cd06fd-858d-4e21-994f-325778812713",
             "content": {
               "accoPath": "83cd06fd-858d-4e21-994f-325778812713",
-              "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=83cd06fd-858d-4e21-994f-325778812713"
+              "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/83cd06fd-858d-4e21-994f-325778812713"
             },
-            "kind": "calendar",
-            "id": "extraordinary-river-ash"
+            "kind": "calendar"
           }
         ],
         "columnCount": 2,
@@ -247,8 +245,7 @@
                 }
               }
             },
-            "kind": "pricing",
-            "id": "fatal-common-tansy"
+            "kind": "pricing"
           }
         ],
         "columnCount": 1,
@@ -284,8 +281,7 @@
                 }
               ]
             },
-            "kind": "photo-gallery",
-            "id": "dark-drumstick"
+            "kind": "photo-gallery"
           }
         ],
         "columnCount": 1,
@@ -409,7 +405,7 @@
           "acco": "050edcb4-680e-4542-96df-3ae4a2af89a5",
           "content": {
             "accoPath": "050edcb4-680e-4542-96df-3ae4a2af89a5",
-            "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=050edcb4-680e-4542-96df-3ae4a2af89a5",
+            "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/050edcb4-680e-4542-96df-3ae4a2af89a5",
             "search": [
               3,
               7,
@@ -435,8 +431,8 @@
           {
             "content": {
               "ref": "substantial-silky-dogwood",
-              "headerFontSize": "1.5rem",
-              "textFontSize": "1.1rem",
+              "minFontSize": "",
+              "maxFontSize": "",
               "minHeight": ""
             },
             "kind": "text"
@@ -445,7 +441,7 @@
             "acco": "050edcb4-680e-4542-96df-3ae4a2af89a5",
             "content": {
               "accoPath": "050edcb4-680e-4542-96df-3ae4a2af89a5",
-              "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=050edcb4-680e-4542-96df-3ae4a2af89a5"
+              "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/050edcb4-680e-4542-96df-3ae4a2af89a5"
             },
             "kind": "calendar"
           }
@@ -703,7 +699,7 @@
           "acco": "e5cace58-d435-420f-a1dc-17e844469e7e",
           "content": {
             "accoPath": "e5cace58-d435-420f-a1dc-17e844469e7e",
-            "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=e5cace58-d435-420f-a1dc-17e844469e7e",
+            "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/e5cace58-d435-420f-a1dc-17e844469e7e",
             "search": [
               3,
               7,
@@ -729,8 +725,8 @@
           {
             "content": {
               "ref": "resonant-horsetail-milkweed",
-              "headerFontSize": "1.5rem",
-              "textFontSize": "1.1rem",
+              "minFontSize": "",
+              "maxFontSize": "",
               "minHeight": ""
             },
             "kind": "text"
@@ -739,7 +735,7 @@
             "acco": "e5cace58-d435-420f-a1dc-17e844469e7e",
             "content": {
               "accoPath": "e5cace58-d435-420f-a1dc-17e844469e7e",
-              "calUrl": "https://accoma.de/ical?user=81e66599-ac3c-4ad6-b261-fceeb784f9e9&acco=e5cace58-d435-420f-a1dc-17e844469e7e"
+              "calUrl": "https://popnapdkcdnabruxkjti.supabase.co/storage/v1/object/public/ical/81e66599-ac3c-4ad6-b261-fceeb784f9e9/e5cace58-d435-420f-a1dc-17e844469e7e"
             },
             "kind": "calendar"
           }
