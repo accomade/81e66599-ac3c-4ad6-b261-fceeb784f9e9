@@ -10,7 +10,8 @@
             "minHeight": "",
             "ref": "excellent-coakum"
           },
-          "kind": "text"
+          "kind": "text",
+          "id": "printed-marsh-ragwort"
         },
         {
           "content": {
@@ -20,7 +21,8 @@
             "link": "",
             "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/299435a8-7844-48ca-b8c2-167bc6ce6389"
           },
-          "kind": "photo"
+          "kind": "photo",
+          "id": "long-carolina-azolla"
         }
       ],
       "columnCount": 2,
@@ -35,7 +37,8 @@
             "header1": "nasty-thin-leaved-coneflower-block-compact-swamp-hellebore",
             "header2": "nasty-thin-leaved-coneflower-block-devoted-mango"
           },
-          "kind": "weather"
+          "kind": "weather",
+          "id": "available-birds-nest-plant"
         }
       ],
       "columnCount": 1,
@@ -46,7 +49,7 @@
       "blocks": [
         {
           "content": {
-            "gridPhotoWidth": 600,
+            "gridPhotoWidth": 500,
             "photos": [
               {
                 "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/f883c950-da8d-4b07-ad79-44260e847c02"
@@ -65,7 +68,8 @@
               }
             ]
           },
-          "kind": "photo-gallery"
+          "kind": "photo-gallery",
+          "id": "varying-hedge-plant"
         }
       ],
       "columnCount": 1,
@@ -77,11 +81,12 @@
         {
           "content": {
             "address": "Achterstr. 3, 17459 Koserow",
-            "lat": "54.048199848661426",
-            "long": "13.997372763288118",
+            "lat": "54.048225890957866",
+            "long": "13.997402242070073",
             "zoom": 17
           },
-          "kind": "leaflet-map"
+          "kind": "leaflet-map",
+          "id": "still-trillium"
         }
       ],
       "columnCount": 1,
