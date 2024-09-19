@@ -52,7 +52,7 @@
                   },
                   "minNumberOfNights": 3,
                   "firstNightPrice": {
-                    "amount": 800,
+                    "amount": 8000,
                     "currency": {
                       "code": "EUR",
                       "base": 10,
@@ -77,7 +77,7 @@
                   },
                   "minNumberOfNights": 3,
                   "firstNightPrice": {
-                    "amount": 800,
+                    "amount": 8000,
                     "currency": {
                       "code": "EUR",
                       "base": 10,
@@ -191,7 +191,7 @@
                     },
                     "minNumberOfNights": 3,
                     "firstNightPrice": {
-                      "amount": 800,
+                      "amount": 8000,
                       "currency": {
                         "code": "EUR",
                         "base": 10,
@@ -216,7 +216,7 @@
                     },
                     "minNumberOfNights": 3,
                     "firstNightPrice": {
-                      "amount": 800,
+                      "amount": 8000,
                       "currency": {
                         "code": "EUR",
                         "base": 10,
