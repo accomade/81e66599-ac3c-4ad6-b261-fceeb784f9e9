@@ -16,7 +16,7 @@
   
   export let data: LayoutData;
   
-  initLangStore(data?.lang)
+  initLangStore('de')
 
   installTwicPics( {
       "domain": `https://accomade.twic.pics`,
