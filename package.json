@@ -32,9 +32,9 @@
 	},
 	"dependencies": {
 		"@dinero.js/currencies": "2.0.0-alpha.14",
-		"@fontsource/arizonia": "^5.0.19",
-		"@fontsource/carrois-gothic": "^5.0.8",
-		"@fontsource/raleway": "^5.0.17",
+		"@fontsource/arizonia": "^5.2.5",
+		"@fontsource/carrois-gothic": "^5.2.5",
+		"@fontsource/raleway": "^5.2.5",
 		"@types/geojson": "^7946.0.14",
 		"@types/leaflet": "^1.9.8",
 		"dinero.js": "2.0.0-alpha.14",
