@@ -28,6 +28,13 @@
       "path": "/accomodations"
     },
     {
+      "key": "dd505fa9-ccaa-4667-a717-e7af24e3ab6c",
+      "path": "/accomodations/dd505fa9-ccaa-4667-a717-e7af24e3ab6c",
+      "acco": "dd505fa9-ccaa-4667-a717-e7af24e3ab6c",
+      "external": false,
+      "sub": true
+    },
+    {
       "acco": "e5cace58-d435-420f-a1dc-17e844469e7e",
       "external": false,
       "key": "e5cace58-d435-420f-a1dc-17e844469e7e",
