@@ -884,7 +884,7 @@
     "path": "/accomodations/dd505fa9-ccaa-4667-a717-e7af24e3ab6c",
     "cardContent": {
       "coverPhoto": {
-        "photoPath": "prev/users/template1/building_1.jpg",
+        "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/8a9be69e-3a43-4a84-8da3-91a30dc9890d",
         "alt": "acco_default_alt",
         "attribution": "Free image by <a href=\"https://shutterstock.com\" target=\"_blank\" rel=\"noopener noreferrer\">Shutterstock</a>",
         "link": "accomodations/dd505fa9-ccaa-4667-a717-e7af24e3ab6c",
@@ -909,7 +909,7 @@
               "smoking": false,
               "ac": false,
               "tv": true,
-              "parking": false,
+              "parking": true,
               "showPets": true,
               "showWifi": true,
               "showSmoking": true,
