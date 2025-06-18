@@ -1271,9 +1271,6 @@
                   "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/69bdb568-b9c4-49f5-80ee-62c4270cc03a"
                 },
                 {
-                  "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/2850e653-4387-43d9-b65c-28ef5da0e3b4"
-                },
-                {
                   "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/714305ba-8024-4dee-b41a-463ef401c305"
                 },
                 {
@@ -1284,6 +1281,9 @@
                 },
                 {
                   "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/cd34547c-7863-4c79-8c79-ae84e6f7f03b"
+                },
+                {
+                  "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/5f58a115-5378-4aee-b3a9-98e363ef21c7"
                 }
               ],
               "gridPhotoWidth": ""
