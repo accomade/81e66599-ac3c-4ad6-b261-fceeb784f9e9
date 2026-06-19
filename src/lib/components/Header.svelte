@@ -1,18 +1,18 @@
 <script lang="ts">
-  import { currentLang } from '$lib/stores/lang';
-  
-  import { dictEntry } from '$lib/conf/translations';
+  import { currentLang } from "$lib/stores/lang";
 
-  import { ACCOMADE_USER_ID, PUBLIC_SUPABASE_URL } from '$lib/conf/settings';
+  import { dictEntry } from "$lib/conf/translations";
 
-  export let logoLink:string = `${PUBLIC_SUPABASE_URL}/storage/v1/object/public/users/${ACCOMADE_USER_ID}/logo.svg`
+  import { ACCOMADE_USER_ID, PUBLIC_SUPABASE_URL } from "$lib/conf/settings";
+
+  export let logoLink: string = `${PUBLIC_SUPABASE_URL}/storage/v1/object/public/users/${ACCOMADE_USER_ID}/logo.svg`;
 </script>
 
 <header>
-  <object title="logo" class="logo" data="{logoLink}"/>
+  <img title="logo" class="logo" src={logoLink} alt="logo" />
   <div class="text-wrapper">
     <div class="header"><h1>{dictEntry($currentLang, "headerTitle")}</h1></div>
-    <div class="slug">{dictEntry($currentLang,"headerSlug")}</div>
+    <div class="slug">{dictEntry($currentLang, "headerSlug")}</div>
   </div>
 </header>
 
@@ -39,16 +39,16 @@
 
   .slug {
     font-size: 1.6rem;
-    font-family: var(--header-font-family, 'sans-serif');
-    font-variant: var(--header-font-variant, 'small-caps');
+    font-family: var(--header-font-family, "sans-serif");
+    font-variant: var(--header-font-variant, "small-caps");
     margin-bottom: 1rem;
   }
 
   .header h1 {
     margin-top: 0.6rem;
     margin-bottom: 0.3rem;
-    font-family: var(--page-title-font-family, 'sans-serif');
-    font-variant: var(--page-title-font-variant, 'small-caps');
+    font-family: var(--page-title-font-family, "sans-serif");
+    font-variant: var(--page-title-font-variant, "small-caps");
   }
 
   .logo {
@@ -99,6 +99,4 @@
       padding-left: 1rem;
     }
   }
-
-
 </style>
